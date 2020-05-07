@@ -3,7 +3,7 @@ Datenintensive und datenfokussierte Aktivitäten im eigenen Arbeitsalltag
 
 ## Inhaltsverzeichnis
 
-[TOC]
+[1. Einleitung](## 1. Einleitung)
 
 ## 1. Einleitung
 Innerhalb der Tätigkeit des Teams Information Management beim [International Paralympic Committee](https://www.paralympic.org) fallen in verschiedenen Bereichen datenintensive und datenfokussierte Aktivitäten an. Diese sind:
