@@ -62,4 +62,12 @@ Ein weiteres Beispiel, wie Software eingesetzt werden könnte, wäre bei der Nut
 Als letzter Punkt wäre, im Angesicht des Umzugs auf ein neues Bibliotheks- und Sammlungsprogramm, eine Softwarelösung sinnvoll, die den Ex- und Import von Datensätzen aus dem derzeitigen Programm in die neue Umgebung erleichtert. AdLib bietet zwar die Möglichkeit des Datenexports in xml- oder csv-Dateien, dieser gestaltet sich allerdings recht kompliziert. Die Möglichkeit zur Auslesung und Übertragung von Datensätzen würde einen reibungslosen Übergang zu neuen Systemen ermöglichen und die Arbeit der Abteilung erleichtern.
 
 ## 7. Fazit
-Das gewählte Arbeitsumfeld bietet, wie anhand einiger Beispiele verdeutlicht werden konnte, mehrere Ansätze datenintensiver Arbeit, als auch viele Anwendungspotenziale für technische Lösungen. Gerade aufgrund stetig wachsender Datenmengen, die verarbeitet werden müssten, kommt eine manuelle Lösung dabei auch für einige Probleme oder Arbeitsfelder immer weniger in Frage. Sinnvoller Einsatz automatischer Lösungen sowie die bessere Verarbeitung von Daten würden dazu beitragen, Prozesse zu straffen oder auch, im Falle einer Bilddatenbank, die Sammlung und Zugänglichmachung von Informationen erst zu ermöglichen. Inwiefern alle hier vorgestellten Probleme 
+Das gewählte Arbeitsumfeld bietet, wie anhand einiger Beispiele verdeutlicht werden konnte, mehrere Ansätze datenintensiver Arbeit, als auch viele Anwendungspotenziale für technische Lösungen. Gerade aufgrund stetig wachsender Datenmengen, die verarbeitet werden müssten, kommt eine manuelle Lösung dabei auch für einige Probleme oder Arbeitsfelder immer weniger in Frage. Sinnvoller Einsatz automatischer Lösungen sowie die bessere Verarbeitung von Daten würden dazu beitragen, Prozesse zu straffen oder auch, im Falle einer Bilddatenbank, die Sammlung und Zugänglichmachung von Informationen erst zu ermöglichen. Inwiefern alle hier vorgestellten Probleme tatsächlich so gelöst werden können, hängt dabei selbstverständlich von einem Praxisversuch ab.
+
+## 8. Quellenverzeichnis
+Alle Internetquellen wurden zuletzt am 07.05.2020 abgerufen.
+
+* International Paralympic Committe: https://www.paralympic.org
+* Axiell Collections: https://www.axiell.com/solutions/product/axiell-collections/
+* Koha: https://koha-community.org/
+* Collective Access: https://www.collectiveaccess.org/
