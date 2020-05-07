@@ -3,7 +3,17 @@ Datenintensive und datenfokussierte Aktivitäten im eigenen Arbeitsalltag
 
 ## Inhaltsverzeichnis
 
-[1. Einleitung](## 1. Einleitung)
+> 1. Einleitung
+> 2. Bibliothek
+> 3. Archiv
+> 4. Sammlung
+> 5. Server
+> 6. Umgang mit Daten und Einsatzpotenziale für Software
+>> 6.1 Umgang mit Daten
+
+>> 6.2 Einsatzpotenziale für Software
+> 7. Fazit
+> 8. Quellenverzeichnis
 
 ## 1. Einleitung
 Innerhalb der Tätigkeit des Teams Information Management beim [International Paralympic Committee](https://www.paralympic.org) fallen in verschiedenen Bereichen datenintensive und datenfokussierte Aktivitäten an. Diese sind:
