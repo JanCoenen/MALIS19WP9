@@ -1,6 +1,8 @@
 # MALIS19WP9 - Aufgabe 1
 Datenintensive und datenfokussierte Aktivitäten im eigenen Arbeitsalltag
 
+Autor: Jan Coenen
+
 ## Inhaltsverzeichnis
 
 > 1. Einleitung
