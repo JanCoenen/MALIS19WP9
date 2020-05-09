@@ -64,7 +64,7 @@ Das gewählte Arbeitsumfeld bietet, wie anhand einiger Beispiele verdeutlicht we
 ## 8. Quellenverzeichnis
 Alle Internetquellen wurden zuletzt am 07.05.2020 abgerufen.
 
-* [International Paralympic Committe](https://www.paralympic.org)
+* [International Paralympic Committee](https://www.paralympic.org)
 * [Axiell Collections](https://www.axiell.com/solutions/product/axiell-collections/)
 * [Koha](https://koha-community.org/)
 * [Collective Access](https://www.collectiveaccess.org/)
